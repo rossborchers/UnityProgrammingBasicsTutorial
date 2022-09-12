@@ -1,2 +1,2 @@
 # UnityProgrammingBasicsTutorial
-Comanion repository for a unity programming basics tutorial
+Companion repository for a unity programming basics tutorial
